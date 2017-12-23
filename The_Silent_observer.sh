@@ -1,0 +1,2 @@
+sudo python Main.py
+
